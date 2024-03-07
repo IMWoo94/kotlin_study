@@ -1,5 +1,6 @@
 package basic
 
-fun main(){
+fun main() {
     println("Hello, Kotlin World!")
+    System.out.println("Hello, Java World!")
 }
